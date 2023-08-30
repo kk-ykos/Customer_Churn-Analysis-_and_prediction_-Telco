@@ -1,1 +1,3 @@
 # Customer_Churn-Analysis-_and_prediction_-Telco
+
+The data set that we will use is called telco.csv and it is a data from the Telecommuncations industry. We shall first import the various packages that we will need to work on our problem. You will notice below that we have also imported the code snippet from IPython.core.interactiveshell... which will allow us to output multiple outputs from code in the same cell. Typically if you have multiple commands in the same cell, then the default in Jupyter is that it will display output only from the last line of code. As we go through the data exploration phase, we will observe the data idiosyncracies and note down these oservations
